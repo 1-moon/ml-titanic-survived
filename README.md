@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/1-moon/ml-titanic-survived">
-    <img src="https://github.com/1-moon/ml-titanic-survived/poster.png" alt="poster" width="250" height="350">
+    <img src="https://github.com/1-moon/ml-titanic-survived/blob/main/poster.png" alt="poster" width="250" height="350">
   </a>
 
   <h3 align="center">Titanic Survivors Analysis</h3>
